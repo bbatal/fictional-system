@@ -38,7 +38,7 @@ function App() {
     <div className="App">
       <h1>sup</h1>
 
-      <h3>Ss this true sup? ❣️</h3>
+      <h3>So this true sup? ❣️</h3>
       <p>The oracle says: {message}</p>
 
     <div>
